@@ -1,0 +1,10 @@
+body{
+    background: #454545;
+}
+
+.container {
+  
+  max-width: 768px;
+  max-height: 900px;
+}
+
